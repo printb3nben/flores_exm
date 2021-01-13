@@ -1,6 +1,6 @@
 # flores_exm
 
-I'm using codeigniter and mostly of my files are php and Github pages currently do not support PHP as it only supports static website so these are the steps on how to open my web app.
+These are the steps on how to open my web app.
 
 1. Dowload the FloresBlog zipped file on github.
 2. Extract that in xampp/htdocs/
